@@ -1,7 +1,7 @@
 # Как включить код JavaScript в страницу
 ```javascript
-<!doctype html>  /*Стандартный заголовок HTML5
-doctype, элементы <html> и <head>.*/
+<!doctype html>  /* Стандартный заголовок HTML5
+doctype, элементы <html> и <head>. */
 <html lang="en">
 <head> /*В раздел <head> страницы до-
 бавляется элемент script.*/
